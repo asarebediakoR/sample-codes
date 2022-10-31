@@ -1,0 +1,40 @@
+Call:
+   aov(formula = PL ~ Sp, data = dataframe2)
+
+Terms:
+                      Sp Residuals
+Sum of Squares  436.6437   27.2200
+Deg. of Freedom        2       147
+
+Residual standard error: 0.4303139
+Estimated effects may be unbalanced
+Call:
+   aov(formula = PW ~ Sp, data = dataframe2)
+
+Terms:
+                      Sp Residuals
+Sum of Squares  80.60413   6.17560
+Deg. of Freedom        2       147
+
+Residual standard error: 0.2049656
+Estimated effects may be unbalanced
+Call:
+   aov(formula = SL ~ Sp, data = dataframe2)
+
+Terms:
+                      Sp Residuals
+Sum of Squares  63.21213  38.95620
+Deg. of Freedom        2       147
+
+Residual standard error: 0.5147894
+Estimated effects may be unbalanced
+Call:
+   aov(formula = SW ~ Sp, data = dataframe2)
+
+Terms:
+                     Sp Residuals
+Sum of Squares  10.9776   17.0350
+Deg. of Freedom       2       147
+
+Residual standard error: 0.3404179
+Estimated effects may be unbalanced
